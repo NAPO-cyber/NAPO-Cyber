@@ -5,3 +5,5 @@ I believe in constant learning and continuous growth. <br>
 ## <img src="https://tryhackme-badges.s3.amazonaws.com/rootuser2503.png" alt="Your Image Badge" />
 <!--
 
+# TECH
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
