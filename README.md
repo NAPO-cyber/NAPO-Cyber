@@ -1,7 +1,4 @@
-## Hello there !
-# Gopal this side... A cybersecurity enthusiast. Always ready and excited to learn more & more about computer networking & security.
-# I complete modules and CTFs on tryhackme & HACKTHBOX.
-# A believer of "CONSTANT LEARNING".
+# Hello! I'm Gopal, a cybersecurity enthusiast passionate about computer networking and security. I actively sharpen my skills by completing modules and CTF challenges on TryHackMe and Hack The Box. I believe in constant learning and continuous growth.
 <img src="https://tryhackme-badges.s3.amazonaws.com/rootuser2503.png" alt="Your Image Badge" />
 <!--
 
